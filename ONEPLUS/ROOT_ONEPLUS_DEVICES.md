@@ -6,6 +6,7 @@
 * [RECOVERY 11 12 13 UNOFFICIAL TWRP for OnePlus 6 & 6T](https://xdaforums.com/t/recovery-11-12-13-unofficial-twrp-for-oneplus-6-6t.4382121/)
 * [TWRP for OnePlus 6 (enchilada)](https://twrp.me/oneplus/oneplus6.html)
 * [(OnePlus 6)(ROM)(OTA)(Oxygen OS) Mirrors for official Oxygen OS ROMs and OTA updates](https://xdaforums.com/t/oneplus-6-rom-ota-oxygen-os-mirrors-for-official-oxygen-os-roms-and-ota-updates.3792244/)
+* [TWRP for OnePlus 6 (enchilada)](https://twrp.me/oneplus/oneplus6.html)
   
 * [Root Oneplus 6 & 6T OxygenOS 11.1.2.2 - Step by Step Guide](https://www.youtube.com/watch?v=FSStkSVcBRk&ab_channel=TechiBee)
   * [](https://techibee.in/root-oneplus-6-6t-running-oxygenos-11-1-2-2-step-by-step-guide/)
