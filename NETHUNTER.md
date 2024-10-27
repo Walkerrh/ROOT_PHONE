@@ -8,6 +8,7 @@
   * `https://download.virtualbox.org/virtualbox/< VERSION >/Oracle_VirtualBox_Extension_Pack-< VERSION >.vbox-extpack`
 * Guest Additions ISO
   * `https://download.virtualbox.org/virtualbox/< VERSION >/VBoxGuestAdditions_< VERSION >.iso`
+  * `sudo gpasswd -a $USER vboxusers`
 
 1. Update your phone to the latest stock OS
    * you will not be able to update Android after installing Nethunter
