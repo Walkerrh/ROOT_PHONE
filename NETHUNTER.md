@@ -87,3 +87,8 @@
 
 https://xdaforums.com/t/tool-oneplusrecovery-tool-v1-0-restore-stock-cm11s-fix-bricks-etc.2991851/
 https://xdaforums.com/t/index-oneplus-one.2843675/
+
+
+# ah
+* `bcdedit.exe -set testsigning on`
+* `bcdedit.exe -set testsigning off`
