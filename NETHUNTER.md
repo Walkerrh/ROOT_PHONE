@@ -92,3 +92,8 @@ https://xdaforums.com/t/index-oneplus-one.2843675/
 # ah
 * `bcdedit.exe -set testsigning on`
 * `bcdedit.exe -set testsigning off`
+
+# disable unsigned drivers
+* restart windows
+* boot into windows troubleshoot
+* startup settings -> choose 7
