@@ -85,4 +85,4 @@
   * `fastboot --set-active=b`
   * `fastboot set_active a`
 
-
+https://xdaforums.com/t/tool-oneplusrecovery-tool-v1-0-restore-stock-cm11s-fix-bricks-etc.2991851/
